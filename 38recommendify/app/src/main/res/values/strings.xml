@@ -3,4 +3,7 @@
     <string name="title">Recommendify</string>
     <string name="search_bar">Song name</string>
     <string name="search">SEARCH</string>
+    <string name="lfm_api_key">fbb0d1f5be856dd7adacca0ce411a15a</string>
+    <string name="lfm_secret">01b52caf0eeb4ea43295baa4c2ddc24e</string>
+    <string name="spotify_api_key"></string>
 </resources>
